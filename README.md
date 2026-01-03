@@ -22,7 +22,7 @@ I love building clean, scalable user interfaces and strengthening my problem-sol
   <a href="https://leetcode.com/u/Anubhav_Srivastava13/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  ## 🏆 HackerRank Achievements
+  
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
