@@ -22,15 +22,23 @@ I love building clean, scalable user interfaces and strengthening my problem-sol
   <a href="https://leetcode.com/u/Anubhav_Srivastava13/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  ## 🏆 HackerRank Achievements
+
+<p align="center">
   <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
-    <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-2EC866?style=for-the-badge&logo=hackerrank"/>
-  <img src="https://img.shields.io/badge/SQL-5⭐-2EC866?style=for-the-badge&logo=hackerrank"/>
-  <img src="https://img.shields.io/badge/C-4⭐-2EC866?style=for-the-badge&logo=hackerrank"/>
+    <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/C-4⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
-  </a>
 </p>
 
 
