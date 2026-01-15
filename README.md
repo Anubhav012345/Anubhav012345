@@ -123,23 +123,14 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav012345&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav012345&theme=tokyonight&cache_seconds=86400&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav012345&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true"/>
-</p>
-
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anubhav012345/Anubhav012345/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
-
+---
+### ⚡ Status
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav012345&theme=github)
 
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
