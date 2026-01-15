@@ -14,10 +14,13 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Frontend Developer focused on **performance, UI clarity, and clean code**
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 🧩 Enjoy solving problems on **LeetCode & HackerRank**
-- 🌱 Constantly learning and improving
+🎯 Frontend Developer focused on building scalable, high-performance user interfaces with clean and maintainable code.
+
+🧠 Strong problem-solving foundation in Data Structures & Algorithms, with consistent practice and optimization mindset.
+
+🧩 Active competitive programmer on LeetCode and HackerRank, solving real-world and algorithmic challenges.
+
+🌱 Continuously improving through hands-on projects, code reviews, and learning modern web technologies.
 
 ---
 ## 💻 Coding Profiles
@@ -125,12 +128,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav012345&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav012345&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav012345&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav012345&theme=tokyonight&cache_seconds=86400&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav012345&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav012345&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true"/>
 </p>
 
 ---
