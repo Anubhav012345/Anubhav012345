@@ -124,12 +124,13 @@
 
 
 ---
+<h2 align="center">🐍 Contributions</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anubhav012345/Anubhav012345/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---
-### ⚡ Status
+### <h2 align="center">⚡ GitHub Status</h2>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav012345&theme=github)
 
 
