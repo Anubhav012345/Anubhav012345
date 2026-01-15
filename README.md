@@ -145,6 +145,9 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theadarsh1m/theadarsh1m/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
 
 
