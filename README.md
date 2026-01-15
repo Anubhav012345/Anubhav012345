@@ -6,12 +6,10 @@
 🎓 I'm a BTech CSE(Cyber Security) student at PSIT, Kanpur, deeply passionate about Data Structures & Algorithms and Front End Development. I thrive on transforming innovative ideas into reality through clean, efficient code, elegant designs, and logical problem-solving.
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Structures+and+Algorithms;Front+End+Development;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;DSA+%7C+Backend+%7C+Frontend+Developer" />
 </p>
 
----
 
 ## 🚀 About Me
 🎯 Frontend Developer focused on building scalable, high-performance user interfaces with clean and maintainable code.
@@ -137,17 +135,10 @@
 </p>
 
 ---
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anubhav012345&theme=onedark&margin-w=10"/>
-</p>
-
----
 <div align="center">
-  <img src="https://raw.githubusercontent.com/theadarsh1m/theadarsh1m/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Anubhav012345/Anubhav012345/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
+
 
 
 
