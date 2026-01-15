@@ -11,7 +11,7 @@
 </p>
 
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me </h2>
 🎯 Frontend Developer focused on building scalable, high-performance user interfaces with clean and maintainable code.
 
 🧠 Strong problem-solving foundation in Data Structures & Algorithms, with consistent practice and optimization mindset.
@@ -21,7 +21,7 @@
 🌱 Continuously improving through hands-on projects, code reviews, and learning modern web technologies.
 
 ---
-## 💻 Coding Profiles
+<h2 align="center">💻 Coding Profiles</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/Anubhav_Srivastava13/" target="_blank">
@@ -46,7 +46,7 @@
 
 </p>
 
-## 🌐 Connect With Me
+<h2 align="center"> 🌐 Connect With Me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-srivastava-b7160b28a/" target="_blank">
@@ -55,9 +55,9 @@
 </p>
 
 ---
-## 🚀 My Skillset:
+ <h2 align="center">🚀My Skillset:</h2>
 
-<p align="center">
+<div align="center">
   <table style="width:100%; border:none;">
     <tr style="border:none;">
       <td align="center" width="96" style="border:none; padding:10px;">
@@ -120,7 +120,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 ---
@@ -130,8 +130,11 @@
 </div>
 
 ---
-### <h2 align="center">⚡ GitHub Status</h2>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav012345&theme=github)
+<h2 align="center">⚡ GitHub Status</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhav012345&theme=github" />
+</p>
+
 
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
